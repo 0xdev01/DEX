@@ -14,6 +14,10 @@ The decentralized exchange app offers the following features:
 
 4. Wallet Integration: The app integrates with popular Ethereum wallets, such as MetaMask, allowing users to connect their wallets seamlessly and interact with the exchange.
 
+Users can access deployed version of the app from here:
+[DexPepeApp](https://dex-pepe.vercel.app/)
+
+
 
 ## Prerequisites
 
